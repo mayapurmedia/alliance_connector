@@ -1,0 +1,3 @@
+ALLIANCE_USER='your_alliance_username';
+ALLIANCE_PASS='your_alliance_password';
+ALLIANCE_IP=10.254.254.8;
