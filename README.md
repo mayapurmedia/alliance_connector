@@ -18,5 +18,5 @@ If you want to run script with cron every minute add following line into
 your crontab:
 
 ```
-* * * * * cd DIRECTORY/PATH/TO/THE/SCRIPT && ./alliance_connector.sh
+* * * * * cd DIRECTORY/PATH/TO/THE/SCRIPT && ./alliance_connector.sh > /dev/null
 ```
