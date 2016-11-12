@@ -1,0 +1,1 @@
+* * * * * cd /usr/alliance_connector && sh ./alliance_connector.sh > /dev/null
